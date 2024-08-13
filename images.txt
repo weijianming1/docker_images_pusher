@@ -1,2 +1,1 @@
-nginx:1.10.0-alpine
-nginx:1.8-alpine
+registry.cn-hangzhou.aliyuncs.com/ycjztools/node-red
