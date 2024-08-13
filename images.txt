@@ -1,1 +1,14 @@
 registry.cn-hangzhou.aliyuncs.com/ycjztools/node-red
+corentinth/it-tools
+konradkleine/docker-registry-frontend:v2
+registry
+mariadb:10.5
+nextcloud
+mcr.microsoft.com/mssql/server:2017-latest
+elleflorio/svn-server
+mysql:8.0.29
+redis:6.2.7
+minio/minio:RELEASE.2022-05-26T05-48-41Z
+nginx:1.21.6
+rabbitmq:management
+tutum/influxdb:latest
