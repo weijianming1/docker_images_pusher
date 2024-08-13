@@ -18,3 +18,5 @@ sheepkiller/kafka-manager:latest
 influxdb:latest
 enmotech/opengauss:5.0.0
 keking/kkfileview:latest
+ffdfgdfg/nps
+ffdfgdfg/npc
