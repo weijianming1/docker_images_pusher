@@ -20,3 +20,4 @@ enmotech/opengauss:5.0.0
 keking/kkfileview:latest
 ffdfgdfg/nps
 ffdfgdfg/npc
+binaryify/netease_cloud_music_api
