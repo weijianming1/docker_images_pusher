@@ -21,3 +21,5 @@ keking/kkfileview:latest
 ffdfgdfg/nps
 ffdfgdfg/npc
 binaryify/netease_cloud_music_api
+ollama/ollama
+1panel/maxkb
