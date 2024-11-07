@@ -23,3 +23,5 @@ ffdfgdfg/npc
 binaryify/netease_cloud_music_api
 ollama/ollama
 1panel/maxkb
+openjdk:8-jdk-alpine
+bellsoft/liberica-openjdk-debian:17.0.11-cds
