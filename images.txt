@@ -1,4 +1,3 @@
-ffdfgdfg/npc:latest
 binaryify/netease_cloud_music_api:latest
 ollama/ollama:latest
 1panel/maxkb:latest
