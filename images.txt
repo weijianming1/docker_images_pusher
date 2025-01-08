@@ -27,3 +27,4 @@ ollama/ollama:latest
 1panel/maxkb:latest
 openjdk:8-jdk-alpine
 bellsoft/liberica-openjdk-debian:17.0.11-cds
+postgres:16.6
