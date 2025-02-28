@@ -12,6 +12,7 @@ redis:6.2.7
 redis:6.2.12
 minio/minio:RELEASE.2022-05-26T05-48-41Z
 minio/minio:RELEASE.2023-04-13T03-08-07Z
+minio/minio:RELEASE.2025-02-18T16-25-55Z
 nginx:1.21.6
 nginx:1.23.4
 rabbitmq:management
