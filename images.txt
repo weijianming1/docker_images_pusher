@@ -1,2 +1,1 @@
-mcr.microsoft.com/mssql/server:2019-latest
-mcr.microsoft.com/mssql/server:2022-latest
+tomcat:8.5.49-jdk8-openjdk
