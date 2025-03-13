@@ -1,1 +1,1 @@
-tomcat:8.5.49-jdk8-openjdk
+langgenius/dify-web:latest
