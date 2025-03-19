@@ -1,1 +1,1 @@
-jenkinsci/blueocean
+jenkinsci/blueocean:latest
