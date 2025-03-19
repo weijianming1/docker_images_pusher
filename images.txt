@@ -1,1 +1,1 @@
-rabbitmq:latest
+jenkinsci/blueocean
