@@ -1,1 +1,1 @@
-1panel/maxkb:latest
+jenkins/jenkins:latest
