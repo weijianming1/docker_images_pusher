@@ -1,1 +1,1 @@
-rustdesk/rustdesk-server 
+lejianwen/rustdesk-server-s6:latest
