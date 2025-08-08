@@ -1,1 +1,1 @@
-lejianwen/rustdesk-server-s6:latest
+ghcr.io/screego/server:latest
