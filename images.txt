@@ -1,1 +1,1 @@
-ghcr.io/screego/server:latest
+ghcr.io/screego/server:1.12.0
