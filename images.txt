@@ -1,1 +1,1 @@
-openproject/openproject:16
+openproject/openproject:14
