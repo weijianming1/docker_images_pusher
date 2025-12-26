@@ -1,1 +1,1 @@
-datart/datart
+guacamole/guacamole:latest
