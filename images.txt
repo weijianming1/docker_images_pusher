@@ -1,3 +1,1 @@
-kern/filepizza:latest
-coturn/coturn
-redis:latest
+onlyoffice/documentserver
