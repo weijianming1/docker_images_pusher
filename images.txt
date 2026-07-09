@@ -1,1 +1,1 @@
-registry.cn-hangzhou.aliyuncs.com/funasr_repo/funasr:funasr-runtime-sdk-cpu-0.4.6
+anapsix/alpine-java:8_server-jre_unlimited
