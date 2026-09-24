@@ -1,1 +1,2 @@
-anapsix/alpine-java:8_server-jre_unlimited
+pgvector/pgvector:pg17
+supersonicbi/supersonic:latest
