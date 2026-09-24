@@ -1,2 +1,1 @@
 pgvector/pgvector:pg17
-supersonicbi/supersonic:latest
